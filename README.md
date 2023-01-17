@@ -2,5 +2,5 @@
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://sptfy-rafaelsutiono.vercel.app/api/spotify?border_color=ffffff)](https://sptfy-rafaelsutiono.vercel.app/view?uid=21avwkvu5ymc66l243cvlgn2q&redirect=true)
+  [![Spotify](https://sptfy-rafaelsutiono.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/21avwkvu5ymc66l243cvlgn2q)
 </div>
